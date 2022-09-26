@@ -1,1 +1,1 @@
-# Testing_Selenium_Basics
+Some tests of website https://furbo.sk/playground/ (on localhost)
